@@ -1,5 +1,5 @@
 # MaCMoC
-MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc of 2D (3D possible) magnets, including cubic / triangular / hexagonal (honeycomb) lattices. It's models include Ising / XY / Heisenberg + single ion ansitropy (SIA) / Heisenberg + SIA + anisotropic exchange.
+MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc of 2D (3D possible) magnets, including cubic / triangular / hexagonal (honeycomb) lattices. It's models include Ising / Planar / Heisenberg + single ion ansitropy (SIA) / Heisenberg + SIA + anisotropic exchange.
 
 ## Usage
 1. Please modify the parameters in the header of mc.m, and run it with 'mc' in Matlab (current folder).  
@@ -13,9 +13,10 @@ MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating an
 2. Parralel: In principle you can modify the code to a parallel version following the prompt comments (based on parfor, just for fun).
 
 ## Validation
-1. With parameters obtained from hybrid functional + SOC crazy calculations, MaCMoC predicts precisely the T<sub>C</sub> = 60 K  
+-  With parameters obtained from hybrid functional + SOC crazy calculations, MaCMoC predicts precisely the T<sub>C</sub> = 60 K  
    of monolayer VI<sub>3</sub> [10.1103/PhysRevB.103.014438], which is latter observed in an experiment [10.1021/acs.nanolett.1c03027].  
-2. Reproduces the result of T<sub>C</sub> = 50 K with GGA_PBE + U calculations in monolayer CrI<sub>3</sub> [10.1021/jacs.8b07879].
+-  Reproduces the result of T<sub>C</sub> = 50 K with GGA_PBE + U calculations in monolayer CrI<sub>3</sub> [10.1021/jacs.8b07879].
+-  Concides well with the planar cubic lattice simulation [10.1103/PhysRevB.20.3761].
 
 ## Publications
 -  G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
@@ -45,4 +46,5 @@ https://doi.org/10.1103/PhysRevB.103.014438
 
 ## Contribution
 Guo-Dong Zhao, zzhaoguodong@163.com  
+   GD Gratefully Tanks for the precious suggestions from Dr. Musen Li.
 This code is under GPL-v3.0 license, and welcome promotions made by others.
