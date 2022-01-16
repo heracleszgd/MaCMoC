@@ -46,5 +46,5 @@ https://doi.org/10.1103/PhysRevB.103.014438
 
 ## Contribution
 Guo-Dong Zhao, zzhaoguodong@163.com  
-   GD Gratefully Tanks for the precious suggestions from Dr. Musen Li.
+   GD Gratefully Tanks for the precious suggestions from Dr. Musen Li.  
 This code is under GPL-v3.0 license, and welcome promotions made by others.
