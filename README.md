@@ -6,6 +6,7 @@ MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating an
    "parameters" should be obtained by first principles, and some suggestions are provided in Equations.pdf.
 2. A timebar appears showing how much time left.
 3. Four summarizing figures appear. They and the data will be saved in a new folder.
+-  More tips are commented in mc.m
 
 ## Efficiency
 1. Version: Please use the newest version of Matlab, they may be much faster than old ones.  
