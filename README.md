@@ -2,12 +2,14 @@
 MatMoc (MarCov-chain Monte Carlo Calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc of 2D (3D possible) magnets. 
 
 ## Usage:
-please modify the parameters in the header of mc.m, and run it with 'mc' in Matlab.  
-"parameters" should be obtained by first principles, and some suggestions are provided in Equations.pdf.
+1. Please modify the parameters in the header of mc.m, and run it with 'mc' in Matlab (current folder).  
+   "parameters" should be obtained by first principles, and some suggestions are provided in Equations.pdf.
+2. A timebar appears showing how much time left.
+3. Four summarizing figures appear. They and the data will be saved in a new folder.
 
 ## Efficiency:
 Version: Please use the newest version of Matlab, they may be much faster than old ones.  
-Parralel: In principle you can modify the code to a parallel version following the prompt comments.
+Parralel: In principle you can modify the code to a parallel version if following the prompt comments (parfor, just for fun).
 
 ## Validation:
 1. With parameters obtained from hybrid functional + SOC crazy calculations, MaCMoC predicts precisely the T<sub>C</sub> = 60 K  
