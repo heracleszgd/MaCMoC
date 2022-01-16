@@ -31,11 +31,14 @@ Parralel: In principle you can modify the code to a parallel version following t
    https://doi.org/10.1021/acs.jpcc.0c08989
 8. S. Xu, F. Jia, G. Zhao, W. Wu, and W. Ren, ***J. Mater. Chem. C*** 9, 9130 (2021).  
    https://doi.org/10.1039/D1TC02238E
-9. M. Hu, S. Xu, C. Liu, G. Zhao, J. Yu, and W. Ren, ***Nanoscale***  (2020).  
+9. M. Hu, S. Xu, C. Liu, G. Zhao, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
    https://doi.org/10.1039/D0NR06268E
 
 ## Acknowlegement:
 If you publish a work with MaCMoC's help, please cite our original paper:  
-G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, Phys. Rev. B 103, 014438 (2021).  
+G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
 https://doi.org/10.1103/PhysRevB.103.014438
 
+## Contribution:
+Guo-Dong Zhao, zzhaoguodong@163.com
+This code is under GPL license, and welcome promotions made by others.
