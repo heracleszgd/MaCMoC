@@ -9,8 +9,8 @@ MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating an
 -  More tips are commented in mc.m
 
 ## Efficiency
-1. Version: Please use the newest version of Matlab, they may be much faster than old ones.  
-2. Parralel: In principle you can modify the code to a parallel version following the prompt comments (based on parfor, just for fun).
+-  Version: Please use the newest version of Matlab, they may be much faster than old ones.  
+-  Parallel: In principle you can modify the code to a parallel version following the prompt comments (based on parfor, just for fun).
 
 ## Validation
 -  With constants obtained from hybrid functional + SOC crazy calculations, MaCMoC precisely predicts the T<sub>C</sub> = 60 K  
