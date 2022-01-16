@@ -40,7 +40,7 @@ MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating an
 ...
 
 ## Acknowlegement
-If you publish a work with MaCMoC's help, please cite our original paper:  
+If you publish a work with MaCMoC's help, please kindly cite the original paper:  
 G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
 https://doi.org/10.1103/PhysRevB.103.014438
 
