@@ -12,15 +12,12 @@ Parralel: In principle you can modify the code to a parallel version following t
 ## Validation:
 1. With parameters obtained from hybrid functional + SOC crazy calculations, MaCMoC predicts precisely the Tc = 60 K 
    of monolayer VI3 [10.1103/PhysRevB.103.014438], which is latter observed in an experiment [10.1021/acs.nanolett.1c03027].
-2. Reproduces the result of Tc = 50 K with GGA_PBE + U calculations in monolayer CrI3 [doi.org/10.1021/jacs.8b07879].
+2. Reproduces the result of Tc = 50 K with GGA_PBE + U calculations in monolayer CrI3 [10.1021/jacs.8b07879].
 
 ## Publications:
-1. G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, *Phys. Rev. B* 103, 014438 (2021).
-   https://doi.org/10.1103/PhysRevB.103.014438
-2. X. Cheng, S. Xu, F. Jia, G. Zhao, M. Hu, W. Wu, and W. Ren, Phys. Rev. B 104, 104417 (2021).
-   https://doi.org/10.1103/PhysRevB.104.104417
-3. T. Jiang, T. Hu, G.-D. Zhao, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, Phys. Rev. B 104, 075147 (2021).
-   https://doi.org/10.1103/PhysRevB.104.075147
+1. G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, *Phys. Rev. B* 103, 014438 (2021).   https://doi.org/10.1103/PhysRevB.103.014438
+2. X. Cheng, S. Xu, F. Jia, G. Zhao, M. Hu, W. Wu, and W. Ren, Phys. Rev. B 104, 104417 (2021).   https://doi.org/10.1103/PhysRevB.104.104417
+3. T. Jiang, T. Hu, G.-D. Zhao, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, Phys. Rev. B 104, 075147 (2021).   https://doi.org/10.1103/PhysRevB.104.075147
 4. Y. Li, C. Liu, G.-D. Zhao, T. Hu, and W. Ren, Phys. Rev. B 104, L060405 (2021).
    https://doi.org/10.1103/PhysRevB.104.L060405
 5. C. Liu, G. Zhao, T. Hu, L. Bellaiche, and W. Ren, Phys. Rev. B 103, L081403 (2021).
