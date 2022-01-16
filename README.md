@@ -17,24 +17,25 @@ Parralel: In principle you can modify the code to a parallel version if followin
 2. Reproduces the result of T<sub>C</sub> = 50 K with GGA_PBE + U calculations in monolayer CrI<sub>3</sub> [10.1021/jacs.8b07879].
 
 ## Publications:
-1. G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
+-  G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
    https://doi.org/10.1103/PhysRevB.103.014438
-2. X. Cheng, S. Xu, F. Jia, G. Zhao, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
+-  X. Cheng, S. Xu, F. Jia, G. Zhao, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
    https://doi.org/10.1103/PhysRevB.104.104417
-3. T. Jiang, T. Hu, G.-D. Zhao, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
+-  T. Jiang, T. Hu, G.-D. Zhao, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
    https://doi.org/10.1103/PhysRevB.104.075147
-4. Y. Li, C. Liu, G.-D. Zhao, T. Hu, and W. Ren, ***Phys. Rev. B*** 104, L060405 (2021).  
+-  Y. Li, C. Liu, G.-D. Zhao, T. Hu, and W. Ren, ***Phys. Rev. B*** 104, L060405 (2021).  
    https://doi.org/10.1103/PhysRevB.104.L060405
-5. C. Liu, G. Zhao, T. Hu, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 103, L081403 (2021).  
+-  C. Liu, G. Zhao, T. Hu, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 103, L081403 (2021).  
    https://doi.org/10.1103/PhysRevB.103.L081403
-6. C. Liu, G. Zhao, T. Hu, Y. Chen, S. Cao, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 104, L241105 (2021).  
+-  C. Liu, G. Zhao, T. Hu, Y. Chen, S. Cao, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 104, L241105 (2021).  
    https://doi.org/10.1103/PhysRevB.104.L241105
-7. S. Xu, F. Jia, G. Zhao, T. Hu, S. Hu, and W. Ren, ***J. Phys. Chem. C*** 125, 6157 (2021).  
+-  S. Xu, F. Jia, G. Zhao, T. Hu, S. Hu, and W. Ren, ***J. Phys. Chem. C*** 125, 6157 (2021).  
    https://doi.org/10.1021/acs.jpcc.0c08989
-8. S. Xu, F. Jia, G. Zhao, W. Wu, and W. Ren, ***J. Mater. Chem. C*** 9, 9130 (2021).  
+-  S. Xu, F. Jia, G. Zhao, W. Wu, and W. Ren, ***J. Mater. Chem. C*** 9, 9130 (2021).  
    https://doi.org/10.1039/D1TC02238E
-9. M. Hu, S. Xu, C. Liu, G. Zhao, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
-   https://doi.org/10.1039/D0NR06268E
+-  M. Hu, S. Xu, C. Liu, G. Zhao, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
+   https://doi.org/10.1039/D0NR06268E  
+...
 
 ## Acknowlegement:
 If you publish a work with MaCMoC's help, please cite our original paper:  
