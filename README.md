@@ -2,8 +2,8 @@
 MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc of 2D (3D possible) magnets, including cubic / triangular / hexagonal (honeycomb) lattices. It's models include Ising / Planar / Heisenberg + single ion ansitropy (SIA) / Heisenberg + SIA + anisotropic exchange.
 
 ## Usage
-1. Please modify the parameters in the header of mc.m, and run it with 'mc' in Matlab (current folder).  
-   "parameters" should be obtained by first principles, and some suggestions are provided in Equations.pdf.
+1. Please modify the constants and parameters in the header of mc.m, and run it with 'mc' in Matlab (current folder).  
+   "constants" should be obtained by first principles, and some suggestions are provided in Equations.pdf.
 2. A timebar appears showing how much time left.
 3. Four summarizing figures appear. They and the data will be saved in a new folder.
 -  More tips are commented in mc.m
@@ -13,7 +13,7 @@ MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating an
 2. Parralel: In principle you can modify the code to a parallel version following the prompt comments (based on parfor, just for fun).
 
 ## Validation
--  With parameters obtained from hybrid functional + SOC crazy calculations, MaCMoC precisely predicts the T<sub>C</sub> = 60 K  
+-  With constants obtained from hybrid functional + SOC crazy calculations, MaCMoC precisely predicts the T<sub>C</sub> = 60 K  
    of monolayer VI<sub>3</sub> [10.1103/PhysRevB.103.014438]. (experimentally observed by Prof. Xiaodong Xu [10.1021/acs.nanolett.1c03027]).  
 -  Reproduces the result of T<sub>C</sub> = 50 K with GGA_PBE + U calculations in monolayer CrI<sub>3</sub> [10.1021/jacs.8b07879].
 -  Concides well with the planar cubic lattice simulation [10.1103/PhysRevB.20.3761].
