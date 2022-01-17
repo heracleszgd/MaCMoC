@@ -52,5 +52,4 @@ Guo-Dong Zhao, zzhaoguodong@163.com
 GD gratefully thanks Dr. Musen Li for his precious suggestions.  
 This code is under GPL-v3.0 license, and welcome promotions made by others.
 
-PS: Extra-terms such as magnetic field and Dzyaloshinsky-Moriya interaction (DMI) should be very easy to be included,  
-&ensp;&ensp;&ensp;but I am too bazy to benchmark. Call for help.
+PS: Extra-terms such as magnetic field and Dzyaloshinsky-Moriya interaction (DMI) should be very easy to be included, but I am too bazy to benchmark. Call for help.
