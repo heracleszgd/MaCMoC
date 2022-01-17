@@ -1,5 +1,7 @@
 # MaCMoC
-MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc of 2D (3D possible) magnets, including cubic / triangular / hexagonal (honeycomb) lattices. It's models include Ising / Planar / Heisenberg + single ion ansitropy (SIA) / Heisenberg + SIA + anisotropic exchange. 
+MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc of 2D (3D possible) magnets, including cubic / triangular / hexagonal (honeycomb) lattices. It's models include Ising / Planar / Heisenberg + single ion ansitropy (SIA) / Heisenberg + SIA + anisotropic exchange.  
+
+This small buy efficient & robust code is open-sourced to expread some coding tricks about Monte Carlo applications in phase change simulations. Let's endeavour for a free package coded by peers together, that could benefit youngs sailing in computational physics.
 
 ## Usage
 1. Please modify the constants and parameters in the 1st block of mc.m, and run it with 'mc' in Matlab (current folder).  
