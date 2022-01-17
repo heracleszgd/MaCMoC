@@ -46,7 +46,7 @@ https://doi.org/10.1103/PhysRevB.103.014438
 
 ## Contribution
 Guo-Dong Zhao, zzhaoguodong@163.com  
-   GD Gratefully Thanks Dr. Musen Li for his precious suggestions.  
+   GD Gratefully thanks Dr. Musen Li for his precious suggestions.  
 This code is under GPL-v3.0 license, and welcome promotions made by others.
 
 PS: Extra-terms such as magnetic field and Dzyaloshinsky-Moriya interaction (DMI) should be very easy to be included, by I am too la-bussy to benchmark. Call for help.
