@@ -45,15 +45,16 @@ simulations. Let's endeavour for a free package coded by peers together, that co
    https://doi.org/10.1039/D0NR06268E  
 ...
 
-## Acknowlegement
+## How to cite
 If you publish a work with MaCMoC's help, please kindly cite the original paper:  
+"Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>",  
 G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
 https://doi.org/10.1103/PhysRevB.103.014438
 
 ## Contribution
 Guo-Dong Zhao, zzhaoguodong@163.com  
-   GD Gratefully thanks Dr. Musen Li for his precious suggestions.  
+GD gratefully thanks Dr. Musen Li for his precious suggestions.  
 This code is under GPL-v3.0 license, and welcome promotions made by others.
 
 PS: Extra-terms such as magnetic field and Dzyaloshinsky-Moriya interaction (DMI) should be very easy to be included,  
-    but I am too bazy to benchmark. Call for help.
+&ensp;&ensp;&ensp;but I am too bazy to benchmark. Call for help.
