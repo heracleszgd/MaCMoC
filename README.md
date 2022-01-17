@@ -1,11 +1,14 @@
 # MaCMoC
-MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc of 2D (3D possible) magnets, including cubic / triangular / hexagonal (honeycomb) lattices. It's models include Ising / Planar / Heisenberg + single ion ansitropy (SIA) / Heisenberg + SIA + anisotropic exchange.  
+MaCMoC (Marcov-Chain Monte Carlo calculator) is coded with Matlab, simulating annealing Metropolis Monte Carlo and predict Tc  
+of 2D (3D possible) magnets, including cubic / triangular / hexagonal (honeycomb) lattices. It's models include Ising / Planar /  
+Heisenberg + single ion ansitropy (SIA) / Heisenberg + SIA + anisotropic exchange.  
 
-This small buy efficient & robust code is open-sourced to expread some coding tricks about Monte Carlo applications in phase change simulations. Let's endeavour for a free package coded by peers together, that could benefit youngs sailing in computational physics.
+This small buy efficient & robust code is open-sourced to expread some coding tricks about Monte Carlo applications in phase change simulations.  
+Let's endeavour for a free package coded by peers together, that could benefit youngs sailing in computational physics.
 
 ## Usage
 1. Please modify the constants and parameters in the 1st block of mc.m, and run it with 'mc' in Matlab (current folder).  
-   "constants" should be obtained by first principles, and some suggestions are provided in Equations.pdf.
+   ("constants" should be obtained by first principles, and some suggestions are provided in Equations.pdf.)
 2. A timebar appears showing how much time left.
 3. Four summarizing figures appear (average magnetic moments, specific heat, magnetic susceptibility, average energy).  
    They and the raw data will be saved in a new folder.
@@ -52,4 +55,4 @@ Guo-Dong Zhao, zzhaoguodong@163.com
    GD Gratefully thanks Dr. Musen Li for his precious suggestions.  
 This code is under GPL-v3.0 license, and welcome promotions made by others.
 
-PS: Extra-terms such as magnetic field and Dzyaloshinsky-Moriya interaction (DMI) should be very easy to be included, by I am too la-bussy to benchmark. Call for help.
+PS: Extra-terms such as magnetic field and Dzyaloshinsky-Moriya interaction (DMI) should be very easy to be included, but I am too la-bussy to benchmark. Call for help.
