@@ -7,7 +7,8 @@ This small buy efficient & robust code is open-sourced to expread some coding tr
 1. Please modify the constants and parameters in the 1st block of mc.m, and run it with 'mc' in Matlab (current folder).  
    "constants" should be obtained by first principles, and some suggestions are provided in Equations.pdf.
 2. A timebar appears showing how much time left.
-3. Four summarizing figures appear (average magnetic moments, specific heat, magnetic susceptibility, average energy). They and the raw data will be saved in a new folder.
+3. Four summarizing figures appear (average magnetic moments, specific heat, magnetic susceptibility, average energy).  
+   They and the raw data will be saved in a new folder.
 -  More tips are commented in mc.m
 
 ## Efficiency
