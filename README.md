@@ -47,7 +47,7 @@ G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***
 https://doi.org/10.1103/PhysRevB.103.014438
 
 ## Contribution
-Guo-Dong Zhao, zzhaoguodong@163.com  
+Guo-Dong Zhao, Fanhao Jia. zzhaoguodong@163.com  
 GD gratefully thanks Dr. Musen Li for his precious suggestions.  
 This code is under GPL-v3.0 license, and welcome promotions made by others.
 
