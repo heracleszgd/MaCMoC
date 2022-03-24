@@ -9,6 +9,8 @@ This small but efficient & robust code is open-sourced to expread some coding tr
 2. A timebar appears showing how much time left.
 3. Four summarizing figures appear (average magnetic moments, specific heat, magnetic susceptibility, average energy). They and the raw data will be saved in a new folder.
 -  More tips are commented in mc.m
+-  Foundamental knowledge available in my thesis (Chinese):  
+   https://doi.org/10.27300/d.cnki.gshau.2020.000503  
 
 ## Efficiency
 -  Version: Please use the newest version of Matlab, they may be much faster than old ones. Ising model is super fast.
