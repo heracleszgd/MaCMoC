@@ -21,10 +21,10 @@ Lat    =   "tVCHH"     ; % Lattice. 'c' for cub, 't' for tiangle_ABC_staking on 
                                   % 'tVCHH' triangle inplane, for CV, AB staking V_lattice, interlayer_right/below/rightbelow
                                   % 'tVCNH' triangle inplane, HH configuration
 
-J1     =  -8.292e-3    ; % Fir-Nearest Strength of interaction (eV)
-J2     =   3.566e-3    ; % Sec-Nearest Strength of interaction (eV)
+J1     =  -7.492e-3    ; % Fir-Nearest Strength of interaction (eV)
+J2     =   3.222e-3    ; % Sec-Nearest Strength of interaction (eV)
 J3     =   0           ; % Thi-Nearest Strength of interaction (eV)
-D      =  -0.6e-3      ; % Single ion anisotropy (eV), only for heisenberg
+D      =  -0.3e-3      ; % Single ion anisotropy (eV), only for heisenberg
 Sp     =   2.63/2      ; % Sum of Spin
 L      =   10           ; % Size of grid
 epass  =   1e4         ; % eqs=esteps for equilibrium
